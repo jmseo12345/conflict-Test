@@ -2,6 +2,6 @@ function add(a,b){
     return a+b;
 }
 
-function  substract (x , y){
-	return x-y;
+function  multi (x , y){
+	return x *y * y ;
 }
