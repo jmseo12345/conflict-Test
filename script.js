@@ -1,5 +1,5 @@
-function adddddddd(a,b){  //jimins 변경
-    return a+b+a;
+function addsubstract(a,b,c){  //jimins 변경
+    return a+b-c;
 }
 
 function  multi (x , y){
