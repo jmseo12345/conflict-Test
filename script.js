@@ -5,3 +5,7 @@ function add(a,b){
 function  multi (x , y){
 	return x *y * y ;
 }
+
+function divide(x , y){
+    return x/y;
+}
